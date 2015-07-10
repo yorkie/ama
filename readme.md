@@ -1,6 +1,6 @@
 # Ask me anything!
 
-## [Ask a question](https://github.com/sindresorhus/ama/issues/new) &nbsp;&nbsp;&nbsp; [Read questions](https://github.com/sindresorhus/ama/issues?q=is%3Aissue+is%3Aclosed)
+## [Ask a question](https://github.com/sindresorhus/ama/issues/new) &nbsp;&nbsp;&nbsp; [Read questions](https://github.com/yorkie/ama/issues?q=is%3Aissue+is%3Aclosed)
 
 I get a lot of questions by email. This way anyone can read the answer.
 
@@ -17,12 +17,12 @@ Anything means anything. Personal questions. Money. Life. Code. Whatever.
 
 -
 
-*I can also be reached on [Twitter](https://twitter.com/sindresorhus) and [email](mailto:sindresorhus@gmail.com), but I prefer this medium.*
+*I can also be reached on [Twitter](https://twitter.com/yorkie) and [email](mailto:yorkiefixer@gmail.com), but I prefer this medium.*
 
 -
 
 #### More
 
-- [Create your own AMA](https://github.com/sindresorhus/ama/fork)
+- [Create your own AMA](https://github.com/yorkie/ama/fork)
 - [Read more AMAs](https://github.com/sindresorhus/amas)
 - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
