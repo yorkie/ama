@@ -1,6 +1,6 @@
 # Ask me anything!
 
-## [Ask a question](https://github.com/sindresorhus/ama/issues/new) &nbsp;&nbsp;&nbsp; [Read questions](https://github.com/yorkie/ama/issues?q=is%3Aissue+is%3Aclosed)
+## [Ask a question](https://github.com/yorkie/ama/issues/new) &nbsp;&nbsp;&nbsp; [Read questions](https://github.com/yorkie/ama/issues?q=is%3Aissue+is%3Aclosed)
 
 I get a lot of questions by email. This way anyone can read the answer.
 
