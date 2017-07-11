@@ -6,8 +6,6 @@ I get a lot of questions by email. This way anyone can read the answer.
 
 Anything means anything. Personal questions. Money. Life. Code. Whatever.
 
--
-
 #### Guidelines
 
 - Ensure your question haven't already been answered.
@@ -15,11 +13,7 @@ Anything means anything. Personal questions. Money. Life. Code. Whatever.
 - Bugs & feature requests should be opened on the relevant issue tracker.
 - Support questions are better asked on Stack Overflow.
 
--
-
 *I can also be reached on [Twitter](https://twitter.com/yorkie) and [email](mailto:yorkiefixer@gmail.com), but I prefer this medium.*
-
--
 
 #### More
 
